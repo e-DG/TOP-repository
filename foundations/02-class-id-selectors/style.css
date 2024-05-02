@@ -1,0 +1,20 @@
+#two {
+    color: #4793AF;
+    font-size: 27px;
+    }
+
+#four {
+    background-color: #AFD198;
+    font-weight: 700;
+    font-size: 18px;
+    }
+
+.red-background {
+    background-color: #DD5746;
+    font-family:"Verdana", "DejaVu", sans-serif;
+}
+
+.red-background.big {
+    font-size: 20px;
+}
+
