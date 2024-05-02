@@ -1,0 +1,15 @@
+.first-element {
+    color: #ECCA9C;
+    background: #E8EFCF;
+    font-weight: 700;
+}
+
+.second-element {
+    color: #AFD198;
+    background-color: #DBA979;
+}
+
+button {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
