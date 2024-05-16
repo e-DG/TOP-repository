@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 a {
@@ -52,7 +51,7 @@ li {
   box-sizing: border-box;
   font-size: 25px;
   padding: 30px;
-  flex: 1;
+  flex-shrink: 0;
 }
 
 .card {
@@ -79,4 +78,5 @@ li {
 
 .middle {
   display: flex;
+  flex: 1;
 }
